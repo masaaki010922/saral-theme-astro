@@ -10,22 +10,14 @@ export const SITE_DESCRIPTION =
 // Leave it as an empty string if you are deploying to a root domain (e.g. example.com)
 export const SITE_BASE = ''
 
-export const SocialLinks = [https://x.com/_masaaki_ito
-	{
-		name: 'GitHub',
-		url: 'https://github.com/yashjawale',
-	},
-	{
-		name: 'LinkedIn',
-		url: 'https://www.linkedin.com/in/yashjawale/',
-	},
+export const SocialLinks = [
 	{
 		name: 'X / Twitter',
-		url: 'https://twitter.com/imyashjawale',
+		url: 'https://x.com/_masaaki_ito',
 	},
 	{
-		name: 'Instagram',
-		url: 'https://instagram.com/imyashjawale',
+		name: 'GitHub',
+		url: 'https://github.com/masaaki010922',
 	},
 ]
 
